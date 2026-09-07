@@ -437,24 +437,6 @@ Mais do que simplesmente treinar um algoritmo, o projeto demonstra a construçã
 
 ---
 
-## 🔮 Próximos passos
-
-O projeto pode ser evoluído para uma solução mais próxima de produção através de:
-
-- [ ] Criar uma API REST com FastAPI;
-- [ ] Criar uma interface interativa com Streamlit;
-- [ ] Adicionar Docker;
-- [ ] Criar testes automatizados;
-- [ ] Implementar logging;
-- [ ] Criar monitoramento de performance;
-- [ ] Avaliar outros modelos de classificação;
-- [ ] Comparar TF-IDF com embeddings;
-- [ ] Experimentar modelos baseados em Transformers;
-- [ ] Criar uma etapa de retreinamento periódico;
-- [ ] Implementar uma arquitetura de inferência em produção.
-
----
-
 ## 📚 Objetivo de aprendizado
 
 Este projeto faz parte da construção de uma base prática em **Data Science, Machine Learning e Engenharia de IA**, com foco em transformar conceitos estatísticos e algoritmos de aprendizado de máquina em soluções aplicáveis a problemas reais.
@@ -463,12 +445,3 @@ A proposta não é buscar apenas a maior métrica possível, mas compreender tod
 
 ---
 
-## 👨‍💻 Autor
-
-**Jessé Diniz**
-
-Profissional de tecnologia com foco em **Data Science, Machine Learning e AI Engineering**, desenvolvendo soluções que combinam Python, dados, automação e Inteligência Artificial.
-
----
-
-⭐ Se este projeto foi útil ou interessante, considere deixar uma estrela no repositório.
