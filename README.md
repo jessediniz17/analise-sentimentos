@@ -418,7 +418,7 @@ A persistência através do Joblib permite que o modelo treinado seja reutilizad
 
 ## 💡 Pontos fortes do projeto
 
-Este projeto demonstra conhecimentos importantes para uma posição de **Data Scientist / Machine Learning Engineer**:
+Este projeto demonstra conhecimentos importantes para uma posição de **Cientista de Dados / Engenheiro de Machine Learning**:
 
 - Desenvolvimento de solução orientada a problema de negócio;
 - Análise exploratória de dados;
